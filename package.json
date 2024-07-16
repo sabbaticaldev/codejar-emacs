@@ -1,0 +1,11 @@
+{
+	"name": "codejar-emacs",
+	"version": "0.0.1",
+	"description": "This plugin provides Emacs-style keybindings for CodeJar, a minimalist code editor. It enhances the editing experience by adding familiar Emacs shortcuts for navigation and text manipulation.",
+	"main": "codejar.emacs.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Alan Leal <alanmeira@gmail.com>",
+	"license": "MIT"
+}
